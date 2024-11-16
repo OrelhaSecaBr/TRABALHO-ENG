@@ -1,3 +1,6 @@
+TRABALHO FEITO POR : HENRIQUE ALBARNAS E JOÃO G. COELHO
+2° INFO-A
+
 | Cenário  | Passos | Resultado Esperado | Resultado observado | Status |
 | ------------- | ------------- |  ------------- |  ------------- |  ------------- |
 | Adicionar um número à lista(vazia)  | Preencher "5" e enviar | Retornar "5" | Retornou "5" | ✔ |
